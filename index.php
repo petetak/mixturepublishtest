@@ -13,7 +13,7 @@
 </ul>
         <div class="container">
             
-	<h1>hellosdfdsfworld!</h1>
+	<h1>heworld!</h1>
 	<p>You are using the Mixture + inuit.css (v5.1) boilerplate.</p>
 	<p><a href="https://github.com/csswizardry/inuit.css" class="btn  btn--positive">Read the inuit.css documentation &raquo;</a></p>sdfsdfsdf
 	<p><a href="http://docs.mixture.io" class="btn  btn--positive">Read the Mixture documentation &raquo;</a></p>
